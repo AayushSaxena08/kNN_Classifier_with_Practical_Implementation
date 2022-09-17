@@ -41,7 +41,7 @@ In machine learning, k Nearest Neighbours or kNN is the simplest of all machine 
 -	In kNN regression, the output is simply some property value for the object. This value is the average of the values of k nearest neighbours.
 
 
-kNN is a type of `instance-based` learning or lazy learning. Lazy learning means it does not require any training data points for model generation. All training data will be used in the testing phase. This makes training faster and testing slower and costlier. So, the testing phase requires more time and memory resources.
+kNN is a type of `instance-based learning` or `lazy learning`. **Lazy learning** means it does not require any training data points for model generation. All training data will be used in the testing phase. This makes training faster and testing slower and costlier. So, the testing phase requires more time and memory resources.
 
 In kNN, the neighbours are taken from a set of objects for which the class or the object property value is known. This can be thought of as the training set for the kNN algorithm, though no explicit training step is required. In both classification and regression kNN algorithm, we can assign weight to the contributions of the neighbours. So, nearest neighbours contribute more to the average than the more distant ones.
 
@@ -90,3 +90,9 @@ Importing pandas, numpy, seaborn
 [Table of Contents](#0.1)
 
 We are using the Breast Cancer Wisconsin dataset
+
+# **7. Exploratory data analysis** <a class="anchor" id="7"></a>
+
+[Table of Contents](#0.1)
+
+Now, I will explore the data to gain insights about the data. 
