@@ -87,13 +87,9 @@ Importing pandas, numpy, seaborn
 
 # **6. Import dataset** <a class="anchor" id="6"></a>
 
-[Table of Contents](#0.1)
-
 We are using the Breast Cancer Wisconsin dataset
 
 # **7. Exploratory data analysis** <a class="anchor" id="7"></a>
-
-[Table of Contents](#0.1)
 
 Now, I will explore the data to gain insights about the data. 
 
